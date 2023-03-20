@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.background{
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+    width: 390px;
+    height: 844px;
+}
